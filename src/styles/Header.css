@@ -1,0 +1,41 @@
+
+
+.header{
+    
+    color:rgb(0, 0, 0);
+    font-family: "serif";
+    font-size:x-small;
+}
+
+.topics{
+    margin-top:15px;
+    margin-left:35px;
+}
+
+.list{
+    list-style:circle;
+    color:rgb(0, 0, 0);
+}
+
+.topic{
+    color:rgb(0, 153, 255);
+    font-family: "serif";
+    font-size: xx-small;
+    margin: 7px;
+    text-decoration: none;
+}
+
+.exchange{
+    color:rgb(0, 0, 0);
+    font-family: "serif";
+    font-weight: bold;
+    font-size: xx-small;
+    margin-left: 17px;
+    text-decoration: none;
+}
+
+.greyStyle{
+    font-family: "serif";
+    font-size: smaller;
+    color:rgb(109, 109, 109);
+}

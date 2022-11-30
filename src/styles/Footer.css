@@ -1,0 +1,20 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    font-size: xx-small;   
+    margin-left: 10%;
+}
+
+.item{
+    margin:20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.name{
+    text-align: center;
+    color:rgb(0, 153, 255);
+    font-family: "serif";
+}

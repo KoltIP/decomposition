@@ -1,0 +1,30 @@
+.finder{
+    margin-top: 25px;
+    margin-left: 30%;
+}
+
+.item{
+    margin:5px;
+}
+
+.themes{
+    color:rgb(0, 153, 255);
+    font-family: "serif";
+    font-size: xx-small;
+    text-decoration: none;
+}
+
+.theme{
+    margin:5px;
+}
+
+.greyStyle{
+    font-family: "serif";
+    font-size: xx-small;
+    color:rgb(109, 109, 109);
+}
+
+.littleStyle{
+    font-family: "serif";
+    font-size: xx-small;
+}
